@@ -7,10 +7,10 @@ Mentora: <a href="https://github.com/cami-la">Camila Cavalcante</a>
 Sacola API 💻 Em construção...
 
 <h3>Features<br></h3>
-- [x] Incluir itens na sacola<br>
-- [x] Visualizar sacola<br>
-- [x] Fechar sacola<br>
-- [ ] Excluir item da sacola<br>
+☑ Incluir itens na sacola<br>
+☑ Visualizar sacola<br>
+☑ Fechar sacola<br>
+☐ Excluir item da sacola<br>
 
 <h3>Demostração da Aplicação</h3>
 Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:
